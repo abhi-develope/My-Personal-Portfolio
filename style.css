@@ -248,7 +248,7 @@ span{
 .portfolio-container {
     margin-top: 4rem;
 }
-.project-topic{
+/* .project-topic{
     font-size: 2rem;
     font-weight: 100;
     letter-spacing: .2rem;
@@ -259,7 +259,7 @@ span{
 .project-topic h2:hover{
     
     box-shadow: 1rem 1rem 0.5rem var(--main-color);
-}
+} */
 
 .portfolio-container{
     display: grid;
@@ -294,6 +294,21 @@ span{
 .portfolio-box:hover{
     box-shadow: 0 0 3rem var(--main-color);
 
+}
+
+.portfolio .webName{
+    color: black;
+    font-weight: bold;
+}
+
+.portfolio .techUse{
+    color: #0ef;
+
+}
+
+.portfolio-layer span{
+    color: red;
+    font-size: 30px;
 }
 
 

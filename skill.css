@@ -53,6 +53,18 @@
     transform-origin: left;
 }
 
+.white{
+    color: white;
+}
+
+.black{
+    color: black;
+}
+
+.containtbg{
+    background-color: white;
+}
+
 @keyframes animate{
     100%{
         transform: scaleX(1);
