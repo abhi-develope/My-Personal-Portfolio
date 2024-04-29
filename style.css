@@ -269,22 +269,22 @@ span{
     gap: 2.5rem;
 }
 
-.portfolio-container .portfolio-box{
+/* .portfolio-container .portfolio-box{
     position: relative;
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
-}
+} */
 
-.portfolio-box img{
+/* .portfolio-box img{
     width: 100%;
 }
 .portfolio-box img{
     width: 100%;
     transition: .5s ease;
-}
-.portfolio-box:hover img{
+} */
+/* .portfolio-box:hover img{
     transform: scale(1.1);
 }
 .portfolio-box{
@@ -294,25 +294,19 @@ span{
 .portfolio-box:hover{
     box-shadow: 0 0 3rem var(--main-color);
 
-}
+} */
 
-.portfolio .webName{
-    color: black;
-    font-weight: bold;
-}
 
-.portfolio .techUse{
-    color: #0ef;
 
-}
 
-.portfolio-layer span{
+
+/* .portfolio-layer span{
     color: red;
     font-size: 30px;
-}
+} */
 
 
-.portfolio-box .portfolio-layer {
+/* .portfolio-box .portfolio-layer {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -326,21 +320,21 @@ span{
     padding: 0 4rem;
     transform: translatey(100%);
     transition: .5s ease;
-}
-.portfolio-box:hover .portfolio-layer{
+} */
+/* .portfolio-box:hover .portfolio-layer{
     transform: translatey(0); 
-}
+} */
 
-.portfolio-layer h4{
+/* .portfolio-layer h4{
     font-size: 3rem;
-}
+} */
 
-.portfolio-layer p{
+/* .portfolio-layer p{
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
-}
+} */
 
-.portfolio-layer a{
+/* .portfolio-layer a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -349,11 +343,11 @@ span{
     background: var(--text-color);
     border-radius: 50%;
     margin-bottom: 2rem;
-}
-.portfolio-layer a i{
+} */
+/* .portfolio-layer a i{
     font-size: 2rem;
     color: var(--second-bg-color);
-}
+} */
 
 .contact h2{
     margin-bottom: 3rem;
