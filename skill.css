@@ -48,7 +48,7 @@
     width: 100%;
     height: 5px;
     background-color: #000;
-    animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) 1s infinite  forwards;
     transform: scaleX(0);
     transform-origin: left;
 }
@@ -76,7 +76,7 @@
     background-color: #0ef;
     position: absolute;
     border-radius: 10px;
-    animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) 1s infinite  forwards;
     transform-origin: left;
 }
 
